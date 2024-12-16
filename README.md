@@ -84,3 +84,4 @@ def send_request(self):
 
 
 This bot is a basic illustration to understand the mechanism of TikTok's API interactions. The actual functionality to increment the share/play count might or might not succeed as it depends on the security measures and rate limit rules implemented on TikTok's API backend. Use this knowledge responsibly. It is not to be misused for exploiting or hacking purposes.
+https://vt.tiktok.com/ZS6dWeH6q/
